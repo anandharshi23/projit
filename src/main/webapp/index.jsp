@@ -7,7 +7,64 @@
     <title>Document</title>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="index.css">
+    <style>
+    body{
+    background-color: black;
+}
+#demo{
+    position: relative;
+    left: 10px;
+}
+#demo1{
+    position: relative;
+    left: 15px;
+}
+#demo2{
+    position: relative;
+    left: 20px; 
+}
+#demo10{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: space-around;
+}
+
+#demo11{
+    display: flex;
+    position: relative;
+    top: 150px;
+    justify-content: space-around;
+}
+#demo12{
+    display: flex;
+    position: relative;
+    top: 190px;
+    justify-content: space-around;
+   
+    
+}
+#demo13{
+    display: flex;
+    position: relative;
+    top: 230px;
+    justify-content: space-around;
+}
+#demo14{
+    display: flex;
+    position: relative;
+    top: 290px;
+    justify-content: space-around;
+}
+#demo15{
+    display: flex;
+    position: relative;
+    top: 300px;
+    justify-content: space-around;
+}
+
+</style>
+    
 </head>
 <body>
     <!-- navbar -->
